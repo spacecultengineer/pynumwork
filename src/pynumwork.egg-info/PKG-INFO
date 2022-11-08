@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: pynumwork
+Version: 0.0.1
+Summary: Small Python package
+Home-page: -
+Author: spacecultengineer
+Author-email: spacecultengineer@gmail.com
+Project-URL: Bug Tracker, 
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
